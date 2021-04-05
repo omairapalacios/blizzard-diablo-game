@@ -1,4 +1,3 @@
-
 import * as oauth from '@/services/oauth'
 
 export default {
