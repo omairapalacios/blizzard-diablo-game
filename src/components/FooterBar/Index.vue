@@ -1,18 +1,17 @@
 <template>
   <footer class="footer-bar mt-5">
-    <PoweredByFoot :icons="icons"/>
+    <PoweredByFoot :icons="icons" />
 
-    <hr class="my-5">
+    <hr class="my-5 hr" />
 
     <div class="row">
       <div class="col-sm-6 mb-sm-0 mb-5">
-        <FootLinks/>
+        <FootLinks />
       </div>
       <div class="col-sm-6">
-        <MadeByFoot/>
+        <MadeByFoot />
       </div>
     </div>
-
   </footer>
 </template>
 

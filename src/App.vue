@@ -1,11 +1,10 @@
 <template>
   <div id="app">
-   <LoadLayout v-if="isLoading">
-      <BaseLoading/>
+    <LoadLayout v-if="isLoading">
+      <BaseLoading />
     </LoadLayout>
 
-    <MainLayout v-else/>
-
+    <MainLayout v-else />
   </div>
 </template>
 <script>
@@ -36,6 +35,6 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #ffffff;
-  background-color: #15202b;
+  background-color: #000000;
 }
 </style>
