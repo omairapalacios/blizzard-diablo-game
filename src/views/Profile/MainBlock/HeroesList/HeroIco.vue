@@ -1,5 +1,8 @@
 <template>
-  <div class="hero-ico d-flex align-items-center">
+  <div
+    class="hero-ico d-flex align-items-center hover-cursor-pointer"
+    @click="goToHero(hero.id)"
+  >
     <span class="hero-image border" :class="heroClassImg" />
     <span
       class="hero-name ml-2 font-weight-bold"
@@ -18,6 +21,7 @@
 </template>
 
 <script>
+import goToHero from '@/mixins/goToHero'
 export default {
   name: 'HeroIco',
   props: {
@@ -26,6 +30,7 @@ export default {
       type: Object
     }
   },
+  mixins: [goToHero],
   computed: {
     heroClassImg () {
       const gender = this.hero.gender === 1 ? 'female' : 'male'
