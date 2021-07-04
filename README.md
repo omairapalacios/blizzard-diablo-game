@@ -1,34 +1,30 @@
-# blizzard-diablo3-vue
+# blizzard-diablo-game 👹🕹
 
-## Project setup
-```
-npm install
-```
+Visor de Personajes y Progresión del Famoso juego de Blizzard: Diablo 3
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Temas aprendidos
 
-### Compiles and minifies for production
-```
-npm run build
-```
+* Consumo de servicios REST de manera profesional
+* Lazy load en vue
+* Directivas personalizadas y mixins en vue
+* Autenticación OAuth
+* Navegation guards
+* Sprite CSS
+* Vuex
 
-### Run your unit tests
-```
-npm run test:unit
-```
 
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
+## Demo:
 
-### Lints and fixes files
-```
-npm run lint
-```
+<div align="center" style="margin-bottom:30px">
+  <img src="assets/img/hero.png" width="650" title="hover text">
+  <img src="assets/img/main.png" width="650" title="hover text">
+  <img src="assets/img/character.png" width="650" title="hover text">
+</div>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Guías y Referencias:
+
+Curso  Avanzado VueJs - Platzi
+
+### LICENCIA
+
+Licencia MIT Copyright (c) 2021, Omaira Palacios.
