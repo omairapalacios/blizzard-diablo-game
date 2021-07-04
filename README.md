@@ -16,9 +16,9 @@ Visor de Personajes y Progresión del Famoso juego de Blizzard: Diablo 3
 ## Demo:
 
 <div align="center" style="margin-bottom:30px">
-  <img src="assets/img/hero.png" width="650" title="hover text">
-  <img src="assets/img/main.png" width="650" title="hover text">
-  <img src="assets/img/character.png" width="650" title="hover text">
+  <img src="https://github.com/omairapalacios/blizzard-diablo-game/blob/main/src/assets/img/hero.png" width="650" title="imagen 1">
+  <img src="https://github.com/omairapalacios/blizzard-diablo-game/blob/main/src/assets/img/main.png" width="650" title="imagen 2">
+  <img src="https://github.com/omairapalacios/blizzard-diablo-game/blob/main/src/assets/img/character.png" width="650" title="imagen 3">
 </div>
 
 ## Guías y Referencias:
