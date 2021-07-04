@@ -7,7 +7,7 @@
         <a
           href="https://eu.battle.net/support/es/article/75767"
           target="_blank"
-          title="Format: YourProfile#1234"
+          title="Format: YourProfile#1234, for example: SuperRambo#2613"
           >battle-tag</a
         >
       </em>

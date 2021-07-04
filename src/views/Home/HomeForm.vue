@@ -7,7 +7,7 @@
             id="input-group-1"
             label="BattleTag:"
             label-for="input-text"
-            description="Format: YourProfile#1234"
+            description="Format: YourProfile#1234 for example: SuperRambo#2613"
           >
             <b-form-input
               v-focus
